@@ -1,5 +1,5 @@
 seajs.config({
-    base:"http://127.0.0.1/js/sea-modules/",
+    base:"/js/sea-modules/",
     alias:{
         "jquery":"jquery/jquery/1.10.1/jquery.js",
         "bootstrap":"bootstrap/3.3.7/bootstrap.min.js",
