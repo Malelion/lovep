@@ -1,0 +1,56 @@
+@charset "utf-8";
+/**  CSS Document  */
+body{
+	margin: 0px 50px;
+	padding: 0px;
+	}
+.nav_bar_plug{
+	float: left;
+	width: 190px;
+	min-height: 500px;
+	margin: 3px 13px 0px 0px;
+	background-color: #ffffff;
+	}
+.nav_bar_title_plug{
+	text-align: left;
+	padding: 10px 10px 10px 20px;
+	font-weight: bold;
+	font-size: 18px;
+	}
+.nav_bar_ul_plug{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+	}
+.nav_bar_li_plug{
+	border-radius: 3px;
+	cursor: pointer;
+	}
+.nav_bar_li_plug:hover{
+	background-color: #f1f1f1;
+	width: 100%;
+	height: 25px;
+	}
+.nav_bar_li_plug div{
+	position: relative;
+	line-height: 25px;
+	font-size: 12px;
+	box-sizing: border-box; /*W3C标准(IE9+，Safari5.1+,Chrome10.0+,Opera10.6+都符合box-sizing的w3c标准语法)*/
+	-moz-box-sizing: border-box; /*Firefox3.5+*/
+	-webkit-box-sizing: border-box; /*Safari3.2+*/
+	-o-box-sizing: border-box; /*Opera9.6*/
+	-ms-box-sizing: border-box; /*IE8*/
+	}
+.nav_bar_li_plug .nav_bar_div_left_plug{
+	float: left;
+	width: 70%;
+	text-align: left;
+	padding-left: 20px;
+	}
+.nav_bar_li_plug .nav_bar_div_right_plug{
+	float: right;
+	width: 30%;
+	text-align: right;
+	padding-right: 15px;
+	background-color: #f1f1f1;
+}

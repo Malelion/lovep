@@ -1,0 +1,44 @@
+@charset "utf-8";
+/**  CSS Document  */
+.logo_top{
+	width: 100%;
+	height: 60px;
+	background-color: rgb(197, 218, 239);
+	}
+.nav_bar{
+	width: 100%;
+	cursor:pointer;
+	}
+.bar_ul{
+	list-style:none;
+	width: 100%;
+	padding:0px;
+	margin:2px 0px;
+	}
+.bar_ul li{
+	float:left;
+	width:20%;
+	height:40px;
+	text-align:center;
+	padding-top: 12px;
+    font-size: 20px;
+    background-color: #deded4;
+	}
+.bar_ul li:hover{
+	background-color:#CCF;
+	}
+.main_body{
+	width: 100%;
+	text-align: center;
+	}
+.panel_context{
+	float: left;
+	width: 300px;
+	height: 100px;
+	margin: 3px 3px 0px 0px;
+	cursor: pointer;
+	background-color: #cccccc;
+}
+.panel_context:hover{
+	background-color: #6c615c;
+}
