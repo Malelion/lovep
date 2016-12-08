@@ -1,0 +1,10 @@
+seajs.config({
+    base:"http://127.0.0.1/lovep/sea-modules/",
+    alias:{
+        "jquery":"lib/jquery/3.1.1/jquery-3.1.1.js",
+        "bootstrap":"lib/bootstrap/3.3.7/bootstrap.min.js",
+        "angular":"lib/angularjs/1.1.5/angular.js"
+    }
+});
+//加载bootstrap样式
+seajs.use("lib/bootstrap/3.3.7/bootstrap.min.css");
