@@ -7,7 +7,7 @@
     var Index = {
         init:function () {
             $(".bar_ul li").on("click",this,this.loadNavData);
-            $(".main_body").load("page/project.html");
+            $(".main_body").load("page/project.php");
         },
         loadNavData:function (e) {
             var _datatype = $(this).attr("datatype");
