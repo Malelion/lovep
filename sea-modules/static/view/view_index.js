@@ -7,11 +7,11 @@
     var Index = {
         init:function () {
             $(".bar_ul li").on("click",this,this.loadNavData);
-            $(".main_body").load("page/project.php");
+            $(".main_body").load("page/mainPage/project.html");
         },
         loadNavData:function (e) {
             var _datatype = $(this).attr("datatype");
-            $(".main_body").load("page/"+_datatype+".html");
+            $(".main_body").load("page/mainPage/"+_datatype+".html");
         }
     };
     module.exports = Index.init();
