@@ -2,81 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64516ef8-2343-4aca-aef7-a2b8ceb47302" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/dao/dbUtil.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/angular/angularjs/1.1.5/angular-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/angular/angularjs/1.1.5/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/3.3.7/3.3.7目录可删除" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/3.3.7/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/3.3.7/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/bootstrap/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/hello/1.0.0/main-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/hello/1.0.0/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/hello/1.0.0/style-debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/hello/1.0.0/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/lucky/1.0.0/main-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/lucky/1.0.0/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/lucky/1.0.0/style-debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/lucky/1.0.0/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/ng-todo/1.0.0/base-debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/ng-todo/1.0.0/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/ng-todo/1.0.0/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/ng-todo/1.0.0/main-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/ng-todo/1.0.0/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/todo/1.0.0/base-debug.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/todo/1.0.0/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/todo/1.0.0/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/todo/1.0.0/main-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/examples/todo/1.0.0/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/backbone/1.0.0/backbone-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/backbone/1.0.0/backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/backbone/1.0.0/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/store/1.3.7/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/store/1.3.7/store-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/store/1.3.7/store.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/underscore/1.4.4/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/underscore/1.4.4/underscore-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/gallery/underscore/1.4.4/underscore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/easing/1.3.0/easing-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/easing/1.3.0/easing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/easing/1.3.0/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/jquery/1.10.1/jquery-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/jquery/1.10.1/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/jquery/jquery/1.10.1/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.0/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.0/sea-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.0/sea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.0/sea.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.1/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.1/sea-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.1/sea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.1.1/sea.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.2.0/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.2.0/sea-debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/sea-modules/seajs/2.2.0/sea.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/static/service/Mysql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/static/service/queryDataList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/static/view/view_index.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page/index.php" afterPath="$PROJECT_DIR$/page/mainPage/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page/life.php" afterPath="$PROJECT_DIR$/page/mainPage/profile.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page/profile.php" afterPath="$PROJECT_DIR$/page/mainPage/life.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page/project.php" afterPath="$PROJECT_DIR$/page/mainPage/project.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/page/technology.php" afterPath="$PROJECT_DIR$/page/mainPage/technology.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tools/tools.html" afterPath="$PROJECT_DIR$/page/tools/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/service/s-project.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sea-modules/static/view/view_index.js" afterPath="$PROJECT_DIR$/sea-modules/static/view/view_index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/dao/dbUtil.php" afterPath="$PROJECT_DIR$/data/dao/dbUtil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/lovep-bak.sql" afterPath="$PROJECT_DIR$/data/lovep-bak.sql" />
     </list>
     <ignored path="lovep.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -118,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbUtil.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dbUtil.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/dao/dbUtil.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18571429">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state vertical-scroll-proportion="-14.571428">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="e#6#87#0#PHP" expanded="true" />
               </folding>
@@ -130,10 +60,43 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="s-project.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/service/s-project.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30535713">
+              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+              <folding>
+                <marker date="1481561514245" expanded="true" signature="180:211" placeholder="SELECT * FRO... t_article_project" />
+                <marker date="1481561514245" expanded="true" signature="180:383" placeholder="SELECT * FRO... t_article_project" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lovep-bak.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/lovep-bak.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.75">
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/mainPage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -151,7 +114,10 @@
         <option value="$PROJECT_DIR$/js/static/view/view_index.js" />
         <option value="$PROJECT_DIR$/sea-modules/static/view/view_index.js" />
         <option value="$PROJECT_DIR$/data/dao/dataConn.php" />
+        <option value="$PROJECT_DIR$/data/service/service-projec.php" />
+        <option value="$PROJECT_DIR$/data/config.php" />
         <option value="$PROJECT_DIR$/data/dao/dbUtil.php" />
+        <option value="$PROJECT_DIR$/data/service/s-project.php" />
       </list>
     </option>
   </component>
@@ -223,7 +189,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lovep" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mainPage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,10 +224,6 @@
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -258,13 +238,19 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Apache24\htdocs\lovep\data" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Apache24\htdocs\lovep\data\dao" />
       <recent name="C:\Apache24\htdocs\lovep\page\mainPage" />
       <recent name="C:\Apache24\htdocs\lovep\page" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.dbUtil.php">
+    <configuration default="false" name="dbUtil.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/data/dao/dbUtil.php">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -293,6 +279,14 @@
       <envs />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.dbUtil.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.dbUtil.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -309,7 +303,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1362" height="726" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -342,10 +336,80 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sea-modules/static/view/view_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dao/dbUtil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/mainPage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sea-modules/static/view/view_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dao/dbUtil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/mainPage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -457,14 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/mainPage/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -481,12 +537,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/lovep-bak.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.75">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/mainPage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/dao/dbUtil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18571429">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state vertical-scroll-proportion="-14.571428">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/service/s-project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30535713">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding>
+            <marker date="1481561514245" expanded="true" signature="180:211" placeholder="SELECT * FRO... t_article_project" />
+            <marker date="1481561514245" expanded="true" signature="180:383" placeholder="SELECT * FRO... t_article_project" />
           </folding>
         </state>
       </provider>
