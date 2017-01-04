@@ -3,6 +3,7 @@
  */
 ;define(function (require,exports,module) {
     var $ = require("jquery");
+    var queryData = require("static/service/queryData");
 
     var Index = {
         init:function () {
@@ -12,7 +13,12 @@
         loadNavData:function (e) {
             var _datatype = $(this).attr("datatype");
             $(".main_body").load("page/mainPage/"+_datatype+".html");
+        },
+        initProjectList:function(){
+            queryData.getData("data/view/v-project.php?type=list",function(data){
+                alert(data);
+            });
         }
     };
-    module.exports = Index.init();
+    module.exports = Index;
 });
